@@ -1,6 +1,6 @@
 {
     "team": [
-        { 
+        {
             "role": "Client",
             "goal": "As a candidate solo-business owner, explore for a marketable AI-powered digital product based on my unique strengths, knowledge and experience in a specific domain. Input initial requirements such as the niche and provide ongoing feedback to shape the unique business idea.",
             "constraints": "You SHOULD only be providing initial input and feedback on the evolving business idea.",
