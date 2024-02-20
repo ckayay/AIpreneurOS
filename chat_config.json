@@ -1,4 +1,4 @@
 {
-    "config": "{EXAMPLES_ROOT}/idea_generator/app_config.json",
+    "config": "{EXAMPLES_ROOT}/idea_generator/config.json",
     "name": "idea_generator"
 }

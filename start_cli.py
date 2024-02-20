@@ -2,10 +2,10 @@ import argparse
 import traceback
 from pathlib import Path
 import openai
-from aipreneuros import App
-from aipreneuros.utils.const import WORKSPACE_ROOT, EXAMPLES_ROOT
-from aipreneuros.config import CONFIG
-from aipreneuros.utils import logger
+from content_gen import Content
+from content_gen.utils.const import WORKSPACE_ROOT, EXAMPLES_ROOT
+from content_gen.config import CONFIG
+from content_gen.utils import logger
 
 
 '''

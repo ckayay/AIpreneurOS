@@ -2,11 +2,11 @@
 import traceback
 import openai
 from pathlib import Path
-from aipreneuros import App
+from content_gen.content import Content
 import chainlit as cl
-from aipreneuros.utils import logger
-from aipreneuros.utils.const import AVATARS_ROOT, WORKSPACE_ROOT, EXAMPLES_ROOT
-from aipreneuros.config import CONFIG
+from content_gen.utils import logger
+from content_gen.utils.const import AVATARS_ROOT, WORKSPACE_ROOT, EXAMPLES_ROOT
+from content_gen.config import CONFIG
 import json
 
 
@@ -20,7 +20,7 @@ async def start():
 
     try:
         ## Load the app configuration
-        with open('aipreneuros_chat_config.json', 'r') as file:
+        with open('chat_config.json', 'r') as file:
             config = json.load(file)
 
         # Replace the placeholder in the configuration

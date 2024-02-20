@@ -49,7 +49,7 @@ npm install @mermaid-js/mermaid-cli
 4. Configuration:
 * Navigate to `./appgen/config/config.yaml`.
 =======
-4. Configure `aipreneuros_config.yaml` 
+4. Configure `config.yaml` 
 >>>>>>> Stashed changes
 * Validate the `mmdc` path by typing `ls ./node_modules/.bin/mmdc` in the terminal.
 * Update `OAI_CONFIG_LIST` and `GITHUB_TOKEN` for OpenAPI model/key and to use github.
