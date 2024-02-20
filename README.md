@@ -1,14 +1,11 @@
 # aipreneuros
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Docs](https://img.shields.io/badge/docs-8A2BE2)](https://datanomous-uk.github.io/appgenpro-docs)
+[![Docs]()
 
 <<<<<<< Updated upstream
 ## Description
 
-Appgenpro stands as a groundbreaking tool tailored for non-technical business professionals, enabling them to develop high-quality enterprise applications. This platform harnesses the capabilities of virtual "AI Agent" teams, each assigned to various roles in the application development process. These AI agents collaboratively work to produce outputs for each role, culminating in a functional business solution.
-
-Appgenpro distinguishes itself from other similar open-source projects through its distinctive design, rooted in the autogen multi-agent framework, and its features specifically aimed at enterprise application development. As we diligently work to fulfill our roadmap, we invite the community to contribute suggestions for new features, enhancing the tool's utility and relevance for users. This collaborative approach ensures Appgenpro remains a cutting-edge and user-focused solution in the field of application development.
 ## Table of Contents
 
 - [Installation](#installation)
